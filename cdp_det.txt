@@ -1,0 +1,1352 @@
+s1-71064423#sho cdp n det
+-------------------------
+Device ID: s12-71064423.nis.cdk.com
+Entry address(es): 
+  IP address: 205.190.182.109
+Platform: cisco WS-C3850-24XU,  Capabilities: Switch IGMP 
+Interface: GigabitEthernet3/0/46,  Port ID (outgoing port): TenGigabitEthernet1/0/24
+Holdtime : 175 sec
+
+Version :
+Cisco IOS Software [Denali], Catalyst L3 Switch Software (CAT3K_CAA-UNIVERSALK9-M), Version 16.3.5b, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2017 by Cisco Systems, Inc.
+Compiled Thu 02-Nov-17 11:07 by mcpre
+
+advertisement version: 2
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: full
+Application: VoIP using vlan 200
+Power Available TLV:
+
+    Power request id: 0, Power management id: 1, Power available: 0, Power management level: -1
+Management address(es): 
+  IP address: 205.190.182.109
+Spare Pair PoE: Yes, Spare Pair Detection Required: No
+Spare Pair PD Config: Disable, Spare Pair PSE Operational: No
+
+-------------------------
+Device ID: vg1-71064423
+Entry address(es): 
+  IP address: 172.30.0.250
+Platform: Cisco VG310,  Capabilities: Router Source-Route-Bridge Switch 
+Interface: GigabitEthernet2/0/1,  Port ID (outgoing port): GigabitEthernet0/0
+Holdtime : 136 sec
+
+Version :
+Cisco IOS Software, VG3X0 Software (VG3X0-UNIVERSALK9-M), Version 15.6(3)M5, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2018 by Cisco Systems, Inc.
+Compiled Tue 31-Jul-18 11:18 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: ''
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+  IP address: 172.30.0.250
+
+-------------------------
+Device ID: vg3-71064423
+Entry address(es): 
+  IP address: 172.30.0.252
+Platform: Cisco VG310,  Capabilities: Router Source-Route-Bridge Switch 
+Interface: GigabitEthernet2/0/3,  Port ID (outgoing port): GigabitEthernet0/0
+Holdtime : 135 sec
+
+Version :
+Cisco IOS Software, VG3X0 Software (VG3X0-UNIVERSALK9-M), Version 15.6(3)M5, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2018 by Cisco Systems, Inc.
+Compiled Tue 31-Jul-18 11:18 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: ''
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+  IP address: 172.30.0.252
+
+-------------------------
+Device ID: vg2-71064423
+Entry address(es): 
+  IP address: 172.30.0.251
+Platform: Cisco VG310,  Capabilities: Router Source-Route-Bridge Switch 
+Interface: GigabitEthernet2/0/2,  Port ID (outgoing port): GigabitEthernet0/0
+Holdtime : 161 sec
+
+Version :
+Cisco IOS Software, VG3X0 Software (VG3X0-UNIVERSALK9-M), Version 15.6(3)M5, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2018 by Cisco Systems, Inc.
+Compiled Tue 31-Jul-18 11:18 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: ''
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+  IP address: 172.30.0.251
+
+-------------------------
+Device ID: SEP382056192D46
+Entry address(es): 
+  IP address: 172.30.0.10
+Platform: Cisco IP Phone 7965,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/45,  Port ID (outgoing port): Port 1
+Holdtime : 121 sec
+Second Port Status: Down
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 11590, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPC47295510A9D
+Entry address(es): 
+  IP address: 172.30.0.234
+Platform: Cisco IP Phone 7945,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/30,  Port ID (outgoing port): Port 1
+Holdtime : 129 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 2717, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E605
+Entry address(es): 
+  IP address: 172.30.0.16
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/14,  Port ID (outgoing port): Port 1
+Holdtime : 168 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 58885, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEP58BC2774FD8D
+Entry address(es): 
+  IP address: 172.30.0.152
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/26,  Port ID (outgoing port): Port 1
+Holdtime : 161 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 64909, Power management id: 2
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E573
+Entry address(es): 
+  IP address: 172.30.0.17
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/23,  Port ID (outgoing port): Port 1
+Holdtime : 155 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 58739, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E6BD
+Entry address(es): 
+  IP address: 172.30.0.30
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/37,  Port ID (outgoing port): Port 1
+Holdtime : 130 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 59069, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPD0C78914F557
+Entry address(es): 
+  IP address: 172.30.0.228
+Platform: Cisco IP Phone 7975,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/27,  Port ID (outgoing port): Port 1
+Holdtime : 162 sec
+Second Port Status: Up
+
+Version :
+SCCP75.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 62807, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPACA0166F073B
+Entry address(es): 
+  IP address: 172.30.0.22
+Platform: Cisco IP Phone 7975,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/27,  Port ID (outgoing port): Port 1
+Holdtime : 163 sec
+Second Port Status: Up
+
+Version :
+SCCP75.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 1851, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E677
+Entry address(es): 
+  IP address: 172.30.0.24
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/14,  Port ID (outgoing port): Port 1
+Holdtime : 166 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 58999, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E457
+Entry address(es): 
+  IP address: 172.30.0.49
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/22,  Port ID (outgoing port): Port 1
+Holdtime : 157 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 58455, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: ucmb-71064423
+Entry address(es): 
+  IP address: 206.92.191.145
+Platform: 7828I4,  Capabilities: Host 
+Interface: GigabitEthernet1/0/44,  Port ID (outgoing port): eth0
+Holdtime : 156 sec
+
+Version :
+Linux 2.6.9-78.ELsmp #1 SMP Wed Jul 9 15:39:47 EDT 2008 CCM:7.1.5.33900-10
+
+advertisement version: 2
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: r3.miami-cad.williamson.nis.cdk.com
+Entry address(es): 
+  IP address: 205.190.182.123
+Platform: Cisco CISCO2951/K9,  Capabilities: Router Switch IGMP 
+Interface: GigabitEthernet1/0/47,  Port ID (outgoing port): GigabitEthernet0/0
+Holdtime : 178 sec
+
+Version :
+Cisco IOS Software, C2951 Software (C2951-UNIVERSALK9-M), Version 15.2(4)M5, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2013 by Cisco Systems, Inc.
+Compiled Fri 13-Sep-13 15:26 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: ''
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPD0C78914F057
+Entry address(es): 
+  IP address: 172.30.0.4
+Platform: Cisco IP Phone 7975,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/5,  Port ID (outgoing port): Port 1
+Holdtime : 162 sec
+Second Port Status: Up
+
+Version :
+SCCP75.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 61527, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E432
+Entry address(es): 
+  IP address: 172.30.0.226
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/24,  Port ID (outgoing port): Port 1
+Holdtime : 127 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 58418, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEP58BC27747B79
+Entry address(es): 
+  IP address: 172.30.0.184
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/11,  Port ID (outgoing port): Port 1
+Holdtime : 153 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 31609, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E721
+Entry address(es): 
+  IP address: 172.30.0.34
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/29,  Port ID (outgoing port): Port 1
+Holdtime : 149 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 59169, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDCEB94BDD5EA
+Entry address(es): 
+  IP address: 172.30.0.204
+Platform: Cisco IP Phone 7965,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/44,  Port ID (outgoing port): Port 1
+Holdtime : 176 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 54762, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPF8A5C5A1C045
+Entry address(es): 
+  IP address: 172.30.0.174
+Platform: Cisco IP Phone 7945,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/20,  Port ID (outgoing port): Port 1
+Holdtime : 134 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 49221, Power management id: 2
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: r1-71064423.nis.cdk.com
+Entry address(es): 
+  IP address: 10.4.105.254
+Platform: Cisco CISCO2921/K9,  Capabilities: Router Source-Route-Bridge Switch IGMP 
+Interface: GigabitEthernet1/0/48,  Port ID (outgoing port): GigabitEthernet0/0.1
+Holdtime : 152 sec
+
+Version :
+Cisco IOS Software, C2900 Software (C2900-UNIVERSALK9-M), Version 15.4(3)M6a, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2016 by Cisco Systems, Inc.
+Compiled Mon 26-Sep-16 08:11 by prod_rel_team
+
+advertisement version: 2
+VTP Management Domain: ''
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+  IP address: 10.4.105.254
+
+-------------------------
+Device ID: SEPF09E630E1271
+Entry address(es): 
+  IP address: 172.30.0.156
+Platform: Cisco IP Phone 7975,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/19,  Port ID (outgoing port): Port 1
+Holdtime : 159 sec
+Second Port Status: Up
+
+Version :
+SCCP75.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 4721, Power management id: 2
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDCEB94BDD627
+Entry address(es): 
+  IP address: 172.30.0.36
+Platform: Cisco IP Phone 7965,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/43,  Port ID (outgoing port): Port 1
+Holdtime : 151 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 54823, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPA8B1D4FA1BE7
+Entry address(es): 
+  IP address: 172.30.0.6
+Platform: Cisco IP Phone 7962,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/16,  Port ID (outgoing port): Port 1
+Holdtime : 138 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 7143, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPBCF1F2E91CF6
+Entry address(es): 
+  IP address: 172.30.0.27
+Platform: Cisco IP Phone 7965,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/39,  Port ID (outgoing port): Port 1
+Holdtime : 145 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 7414, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: s2-71064423.nis.cdk.com
+Entry address(es): 
+  IP address: 205.190.182.121
+Platform: cisco WS-C2960X-24PD-L,  Capabilities: Switch IGMP 
+Interface: GigabitEthernet2/0/35,  Port ID (outgoing port): GigabitEthernet1/0/24
+Holdtime : 128 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.0(2a)EX5, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Mon 16-Feb-15 08:16 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF000000000000F07816F45800FF0000
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 1, Power available: 0, Power management level: -1
+Management address(es): 
+  IP address: 205.190.182.121
+
+-------------------------
+Device ID: SEP1CE85DC987A7
+Entry address(es): 
+  IP address: 172.30.0.224
+Platform: Cisco IP Phone 7945,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/9,  Port ID (outgoing port): Port 1
+Holdtime : 157 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 34727, Power management id: 2
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: s3-71064423.nis.cdk.com
+Entry address(es): 
+  IP address: 205.190.182.120
+Platform: cisco WS-C2960X-48FPD-L,  Capabilities: Switch IGMP 
+Interface: TenGigabitEthernet1/1/1,  Port ID (outgoing port): TenGigabitEthernet1/0/1
+Holdtime : 133 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.0(2a)EX5, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Mon 16-Feb-15 08:16 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF00000000000040A6E8503E00FF0000
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 1, Power available: 0, Power management level: -1
+Management address(es): 
+  IP address: 205.190.182.120
+
+-------------------------
+Device ID: SEP58BC27747B50
+Entry address(es): 
+  IP address: 172.30.0.208
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/30,  Port ID (outgoing port): Port 1
+Holdtime : 145 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 31568, Power management id: 2
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: s4-71064423.nis.cdk.com
+Entry address(es): 
+  IP address: 205.190.182.119
+Platform: cisco WS-C2960X-24PD-L,  Capabilities: Switch IGMP 
+Interface: TenGigabitEthernet2/1/1,  Port ID (outgoing port): TenGigabitEthernet1/0/1
+Holdtime : 145 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.0(2a)EX5, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Mon 16-Feb-15 08:16 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF000000000000F07816F45E80FF0000
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 1, Power available: 0, Power management level: -1
+Management address(es): 
+  IP address: 205.190.182.119
+
+-------------------------
+Device ID: SEP58BC27747B25
+Entry address(es): 
+  IP address: 172.30.0.28
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/39,  Port ID (outgoing port): Port 1
+Holdtime : 179 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 31525, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: s6-71064423.nis.cdk.com
+Entry address(es): 
+  IP address: 205.190.182.117
+Platform: cisco WS-C2960X-48FPD-L,  Capabilities: Switch IGMP 
+Interface: TenGigabitEthernet1/1/2,  Port ID (outgoing port): TenGigabitEthernet1/0/1
+Holdtime : 144 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.2(2)E3, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Wed 26-Aug-15 07:12 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF000000000000E0899DE4EB00FF0000
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 1, Power available: 0, Power management level: -1
+Management address(es): 
+  IP address: 205.190.182.117
+
+-------------------------
+Device ID: SEPE80462EBA3A0
+Entry address(es): 
+  IP address: 172.30.0.232
+Platform: Cisco IP Phone 7975,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/36,  Port ID (outgoing port): Port 1
+Holdtime : 157 sec
+Second Port Status: Up
+
+Version :
+SCCP75.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 41888, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEP3C0E236D8D0C
+Entry address(es): 
+  IP address: 172.30.0.188
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/13,  Port ID (outgoing port): Port 1
+Holdtime : 128 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 36108, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: s7-71064423.nis.cdk.com
+Entry address(es): 
+  IP address: 205.190.182.116
+Platform: cisco WS-C2960X-24PD-L,  Capabilities: Switch IGMP 
+Interface: GigabitEthernet3/0/45,  Port ID (outgoing port): GigabitEthernet1/0/25
+Holdtime : 155 sec
+
+Version :
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.0(2a)EX5, RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Mon 16-Feb-15 08:16 by prod_rel_team
+
+advertisement version: 2
+Protocol Hello:  OUI=0x00000C, Protocol ID=0x0112; payload len=27, value=00000000FFFFFFFF010221FF000000000000F07816F44980FF0000
+VTP Management Domain: ''
+Native VLAN: 1
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 1, Power available: 0, Power management level: -1
+Management address(es): 
+  IP address: 205.190.182.116
+
+-------------------------
+Device ID: SEP081FF3638C0B
+Entry address(es): 
+  IP address: 172.30.0.240
+Platform: Cisco IP Phone 7962,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/32,  Port ID (outgoing port): Port 1
+Holdtime : 139 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 35851, Power management id: 2
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPD0C78914F3D2
+Entry address(es): 
+  IP address: 172.30.0.216
+Platform: Cisco IP Phone 7975,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/10,  Port ID (outgoing port): Port 1
+Holdtime : 162 sec
+Second Port Status: Up
+
+Version :
+SCCP75.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 62418, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F85A0B
+Entry address(es): 
+  IP address: 172.30.0.222
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/17,  Port ID (outgoing port): Port 1
+Holdtime : 150 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 23051, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F94672
+Entry address(es): 
+  IP address: 172.30.0.48
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/29,  Port ID (outgoing port): Port 1
+Holdtime : 164 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 18034, Power management id: 2
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPACA0166F0BD6
+Entry address(es): 
+  IP address: 172.30.0.158
+Platform: Cisco IP Phone 7975,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet1/0/19,  Port ID (outgoing port): Port 1
+Holdtime : 123 sec
+Second Port Status: Down
+
+Version :
+SCCP75.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 3030, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9F9B9
+Entry address(es): 
+  IP address: 172.30.0.40
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet1/0/22,  Port ID (outgoing port): Port 1
+Holdtime : 152 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 63929, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E2A2
+Entry address(es): 
+  IP address: 172.30.0.32
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/15,  Port ID (outgoing port): Port 1
+Holdtime : 149 sec
+Second Port Status: Down
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 58018, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPC47295510C82
+Entry address(es): 
+  IP address: 172.30.0.42
+Platform: Cisco IP Phone 7945,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/32,  Port ID (outgoing port): Port 1
+Holdtime : 178 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 3202, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E5F6
+Entry address(es): 
+  IP address: 172.30.0.168
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet1/0/25,  Port ID (outgoing port): Port 1
+Holdtime : 133 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 58870, Power management id: 2
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDCEB94BDDF18
+Entry address(es): 
+  IP address: 172.30.0.236
+Platform: Cisco IP Phone 7965,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/35,  Port ID (outgoing port): Port 1
+Holdtime : 142 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 57112, Power management id: 2
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9F15C
+Entry address(es): 
+  IP address: 172.30.0.154
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet1/0/15,  Port ID (outgoing port): Port 1
+Holdtime : 156 sec
+Second Port Status: Down
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 61788, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEP84802D7745D6
+Entry address(es): 
+  IP address: 172.30.0.170
+Platform: Cisco IP Phone 7975,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/37,  Port ID (outgoing port): Port 1
+Holdtime : 168 sec
+Second Port Status: Down
+
+Version :
+SCCP75.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 17878, Power management id: 2
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPECC882B026EE
+Entry address(es): 
+  IP address: 172.30.0.214
+Platform: Cisco IP Phone 7962,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/36,  Port ID (outgoing port): Port 1
+Holdtime : 179 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 9966, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEP501CBFFC58A4
+Entry address(es): 
+  IP address: 172.30.0.20
+Platform: Cisco IP Phone 7975,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/28,  Port ID (outgoing port): Port 1
+Holdtime : 168 sec
+Second Port Status: Up
+
+Version :
+SCCP75.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 22692, Power management id: 3
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E96F
+Entry address(es): 
+  IP address: 172.30.0.38
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/20,  Port ID (outgoing port): Port 1
+Holdtime : 149 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 59759, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E58D
+Entry address(es): 
+  IP address: 172.30.0.130
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/24,  Port ID (outgoing port): Port 1
+Holdtime : 140 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 58765, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDCEB94BDDDDB
+Entry address(es): 
+  IP address: 172.30.0.166
+Platform: Cisco IP Phone 7965,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/34,  Port ID (outgoing port): Port 1
+Holdtime : 156 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 56795, Power management id: 2
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEP0004f2e830bd
+Entry address(es): 
+  IP address: 172.30.0.100
+Platform: Cisco IP Phone 7937,  Capabilities: Host Phone 
+Interface: GigabitEthernet3/0/7,  Port ID (outgoing port): port 1
+Holdtime : 160 sec
+
+Version :
+apps37sccp.1-4-5-7
+
+advertisement version: 2
+Duplex: full
+Power drawn: 10.500 Watts
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDCEB94BCEB03
+Entry address(es): 
+  IP address: 172.30.0.18
+Platform: Cisco IP Phone 7965,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet3/0/21,  Port ID (outgoing port): Port 1
+Holdtime : 123 sec
+Second Port Status: Up
+
+Version :
+SCCP45.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 12.000 Watts
+Power request id: 60163, Power management id: 1
+Power request levels are:12000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPE80462EAD7AC
+Entry address(es): 
+  IP address: 172.30.0.44
+Platform: Cisco IP Phone 7911,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet2/0/43,  Port ID (outgoing port): Port 1
+Holdtime : 160 sec
+Second Port Status: Up
+
+Version :
+SCCP11.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 5.000 Watts
+Power request id: 55212, Power management id: 3
+Power request levels are:5000 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: SEPDC7B94F9E2F8
+Entry address(es): 
+  IP address: 172.30.0.210
+Platform: Cisco IP Phone 7942,  Capabilities: Host Phone Two-port Mac Relay 
+Interface: GigabitEthernet1/0/18,  Port ID (outgoing port): Port 1
+Holdtime : 156 sec
+Second Port Status: Up
+
+Version :
+SCCP42.9-4-2SR3-1S
+
+advertisement version: 2
+Duplex: full
+Power drawn: 6.300 Watts
+Power request id: 58104, Power management id: 3
+Power request levels are:6300 0 0 0 0 
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+-------------------------
+Device ID: dccec1b2b2cb
+Entry address(es): 
+  IP address: 172.168.168.180
+Platform: Cisco SG200-26P (PID:SLM2024PT)-VSD,  Capabilities: Switch IGMP 
+Interface: GigabitEthernet2/0/47,  Port ID (outgoing port): gi21
+Holdtime : 155 sec
+
+Version :
+1.3.0.62
+
+advertisement version: 2
+Native VLAN: 1
+Duplex: full
+Application: VoIP using vlan 200
+Power Available TLV:
+
+    Power request id: 0, Power management id: 20496, Power available: 0, Power management level: -1
+Management address(es): 
+
+-------------------------
+Device ID: 2c3ecffceae0
+Entry address(es): 
+  IP address: 10.4.105.36
+Platform: Cisco SG500XG-8F8T (PID:SG500XG-8F8T-K9,  Capabilities: Router Switch IGMP 
+Interface: TenGigabitEthernet3/1/2,  Port ID (outgoing port): te2/16
+Holdtime : 145 sec
+
+Version :
+1.3.7.12
+
+advertisement version: 2
+Native VLAN: 1
+Duplex: full
+Power Available TLV:
+
+    Power request id: 0, Power management id: 7725, Power available: 0, Power management level: -1
+Management address(es): 
+
+-------------------------
+Device ID: 0c8ddb9a5780
+Entry address(es): 
+  IP address: 172.30.4.35
+Platform: MS225-24,  Capabilities: Switch 
+Interface: GigabitEthernet3/0/48,  Port ID (outgoing port): Port 24
+Holdtime : 126 sec
+
+Version :
+1
+
+advertisement version: 2
+Native VLAN: 1
+Power Available TLV:
+
+    Power request id: 0, Power management id: 0, Power available: 0, Power management level: 0
+Management address(es): 
+
+s1-71064423#
