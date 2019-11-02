@@ -1,0 +1,14 @@
+def update_task(device_id, platform, local_interface, remote_interface, ip_address):
+    #platform = 's1.edmonton-gm.shaun'
+    #ip = '204.125.25.249'
+    conn = sqlite3.connect('myipnetwork.db')
+    c = conn.cursor()  
+    #sql = (''' UPDATE NETWORK SET device_id = 's1.edmonton-gm.shaun' WHERE ip_address = '204.125.25.249';''')
+    sql = ('''UPDATE NETWORK SET device_id = ?, platform = ?, local_interface = ?, remote_interface = ?
+     WHERE ip_address = ?;''')
+    data_tuple =  (device_id,  platform, local_interface, remote_interface, ip_address)
+    c.execute(sql, data_tuple)
+    conn.commit()
+    conn.close()
+
+update_task('r1.test', 'c3560-test', 'local-test', 'remote-test', '1.1.1.1')
