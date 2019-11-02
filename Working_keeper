@@ -1,0 +1,19 @@
+import sqlite3
+def insert(cmf, name, device_id, ip_address, platform, local_interface, remote_interface):
+    conn = sqlite3.connect('myipnetwork.db') 
+    c = conn.cursor()  
+    #cmf = '55555555'
+    #name = 'rene'
+    #device_id = 's5.langley-por.shaun'
+    #ip_address = '7.7.7.9'
+    #platform = 'c3560'
+    #local_interface = 'G0/0'
+    #remote_interface = 'G0/1'
+    sqlite_insert_query = """INSERT INTO 'NETWORK' ('cmf', 'name', 'device_id', 'ip_address', 'platform', 'local_interface', 'remote_interface')
+                        VALUES (?,?,?,?,?,?,?);"""                
+    data_tuple =  (cmf, name, device_id, ip_address, platform, local_interface, remote_interface)
+    c.execute(sqlite_insert_query, data_tuple)          
+    conn.commit()
+    conn.close()
+
+insert('29013333', 'Liam motors', 'r1.anywhere-por.langley', '1.1.1.1', 'c2921', 'G0/0/1', 'G0/0/0')
